@@ -1,0 +1,20 @@
+@import "@/assets/css/reset.css";
+@import "@/assets/fonts/inter/stylesheet.css";
+
+*{
+    font-family: 'Inter', serif;
+    color: #000;
+}
+
+:root{
+    --primary: #13BD48;
+    --danger: #EB1934;
+    --grey: #B5B5B5;
+    --lightgrey: #D9D9D9;
+    --white: #FFFFFF;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
