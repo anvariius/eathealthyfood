@@ -1,4 +1,4 @@
-# diplom-project
+# eathealthyfood
 
 ## Project setup
 ```
